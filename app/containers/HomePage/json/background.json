@@ -1,0 +1,52 @@
+[
+  {
+    "bgid": "black-bg01",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/black-bg01.jpg",
+    "tcolr": "#000"
+  },
+  {
+    "bgid": "golden-bg01",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/golden-bg01.jpg",
+    "tcolr": "#F6E28C"
+  },
+  {
+    "bgid": "golden-bg02",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/golden-bg02.jpg",
+    "tcolr": "#F6E28C"
+  },
+  {
+    "bgid": "golden-bg03",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/golden-bg03.jpg",
+    "tcolr": "#F6E28C"
+  },
+  {
+    "bgid": "red-bg01",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg01.jpg",
+    "tcolr": "#c00"
+  },
+  {
+    "bgid": "red-bg02",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg02.jpg",
+    "tcolr": "#c00"
+  },
+  {
+    "bgid": "red-bg03",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg03.jpg",
+    "tcolr": "#c00"
+  },
+  {
+    "bgid": "red-bg04",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg04.jpg",
+    "tcolr": "#c00"
+  },
+  {
+    "bgid": "red-bg05",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg05.jpg",
+    "tcolr": "#c00"
+  },
+  {
+    "bgid": "red-bg06",
+    "path": "https://media-cdn.hahalolo.com/other/bgpost/red-bg06.jpg",
+    "tcolr": "#c00"
+  }
+]

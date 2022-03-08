@@ -1,0 +1,834 @@
+[
+  {
+    "title": ":feeling_amused:",
+    "image": "1f92d.png",
+    "lang": {
+      "en": "amused",
+      "vi": "thú vị"
+    }
+  },
+  {
+    "title": ":feeling_alone:",
+    "image": "1f614.png",
+    "lang": {
+      "en": "alone",
+      "vi": "chỉ có một mình"
+    }
+  },
+  {
+    "title": ":feeling_hopeful:",
+    "image": "1f339.png",
+    "lang": {
+      "en": "hopeful",
+      "vi": "đầy hy vọng"
+    }
+  },
+  {
+    "title": ":feeling_pumped:",
+    "image": "1f606.png",
+    "lang": {
+      "en": "pumped",
+      "vi": "phấn khích"
+    }
+  },
+  {
+    "title": ":feeling_lovely:",
+    "image": "1f60d.png",
+    "lang": {
+      "en": "lovely",
+      "vi": "đáng yêu"
+    }
+  },
+  {
+    "title": ":feeling_glad:",
+    "image": "1f604.png",
+    "lang": {
+      "en": "glad",
+      "vi": "vui vẻ"
+    }
+  },
+  {
+    "title": ":feeling_sorry:",
+    "image": "1f625.png",
+    "lang": {
+      "en": "sorry",
+      "vi": "hối tiếc"
+    }
+  },
+  {
+    "title": ":feeling_wonderful:",
+    "image": "1f60e.png",
+    "lang": {
+      "en": "wonderful",
+      "vi": "tuyệt vời"
+    }
+  },
+  {
+    "title": ":feeling_peaceful:",
+    "image": "1f60c.png",
+    "lang": {
+      "en": "peaceful",
+      "vi": "thanh thản"
+    }
+  },
+  {
+    "title": ":feeling_curious:",
+    "image": "1f9d0.png",
+    "lang": {
+      "en": "curious",
+      "vi": "tò mò"
+    }
+  },
+  {
+    "title": ":feeling_lame:",
+    "image": "1f611.png",
+    "lang": {
+      "en": "lame",
+      "vi": "chẳng đâu vào đâu"
+    }
+  },
+  {
+    "title": ":feeling_sad:",
+    "image": "1f641.png",
+    "lang": {
+      "en": "sad",
+      "vi": "buồn"
+    }
+  },
+  {
+    "title": ":feeling_tired:",
+    "image": "1f634.png",
+    "lang": {
+      "en": "tired",
+      "vi": "mệt mỏi"
+    }
+  },
+  {
+    "title": ":feeling_happy:",
+    "image": "1f970.png",
+    "lang": {
+      "en": "happy",
+      "vi": "hạnh phúc"
+    }
+  },
+  {
+    "title": ":feeling_excited:",
+    "image": "1f929.png",
+    "lang": {
+      "en": "excited",
+      "vi": "hào hứng"
+    }
+  },
+  {
+    "title": ":feeling_relaxed:",
+    "image": "1f60c.png",
+    "lang": {
+      "en": "relaxed",
+      "vi": "thư giãn"
+    }
+  },
+  {
+    "title": ":feeling_explosive:",
+    "image": "1f92f.png",
+    "lang": {
+      "en": "explosive",
+      "vi": "bùng nổ"
+    }
+  },
+  {
+    "title": ":feeling_lost:",
+    "image": "1f627.png",
+    "lang": {
+      "en": "lost",
+      "vi": "hoang mang"
+    }
+  },
+  {
+    "title": ":feeling_depressed:",
+    "image": "1f614.png",
+    "lang": {
+      "en": "depressed",
+      "vi": "chán nản"
+    }
+  },
+  {
+    "title": ":feeling_drained:",
+    "image": "1f912.png",
+    "lang": {
+      "en": "drained",
+      "vi": "kiệt sức"
+    }
+  },
+  {
+    "title": ":feeling_cute:",
+    "image": "1f618.png",
+    "lang": {
+      "en": "cute",
+      "vi": "dễ thương"
+    }
+  },
+  {
+    "title": ":feeling_worried:",
+    "image": "1f630.png",
+    "lang": {
+      "en": "worried",
+      "vi": "lo lắng"
+    }
+  },
+  {
+    "title": ":feeling_crazy:",
+    "image": "1f92a.png",
+    "lang": {
+      "en": "crazy",
+      "vi": "điên"
+    }
+  },
+  {
+    "title": ":feeling_annoyed:",
+    "image": "1f624.png",
+    "lang": {
+      "en": "annoyed",
+      "vi": "bực mình"
+    }
+  },
+  {
+    "title": ":feeling_disappointed:",
+    "image": "1f61e.png",
+    "lang": {
+      "en": "disappointed",
+      "vi": "thất vọng"
+    }
+  },
+  {
+    "title": ":feeling_lonely:",
+    "image": "1f61f.png",
+    "lang": {
+      "en": "lonely",
+      "vi": "cô đơn"
+    }
+  },
+  {
+    "title": ":feeling_great:",
+    "image": "1f600.png",
+    "lang": {
+      "en": "great",
+      "vi": "thật tuyệt"
+    }
+  },
+  {
+    "title": ":feeling_drunk:",
+    "image": "1f974.png",
+    "lang": {
+      "en": "drunk",
+      "vi": "say"
+    }
+  },
+  {
+    "title": ":feeling_cold:",
+    "image": "1f917.png",
+    "lang": {
+      "en": "cold",
+      "vi": "lạnh"
+    }
+  },
+  {
+    "title": ":feeling_warm:",
+    "image": "1f60a.png",
+    "lang": {
+      "en": "warm",
+      "vi": "ấm áp"
+    }
+  },
+  {
+    "title": ":feeling_sleepy:",
+    "image": "1f634.png",
+    "lang": {
+      "en": "sleepy",
+      "vi": "buồn ngủ"
+    }
+  },
+  {
+    "title": ":feeling_thankfull:",
+    "image": "1f600.png",
+    "lang": {
+      "en": "thankful",
+      "vi": "biết ơn"
+    }
+  },
+  {
+    "title": ":feeling_beautiful:",
+    "image": "1f478-1f3fc.png",
+    "lang": {
+      "en": "beautiful",
+      "vi": "xinh đẹp"
+    }
+  },
+  {
+    "title": ":feeling_awesome:",
+    "image": "1f61d.png",
+    "lang": {
+      "en": "awesome",
+      "vi": "rất tuyệt"
+    }
+  },
+  {
+    "title": ":feeling_inspired:",
+    "image": "1f917.png",
+    "lang": {
+      "en": "inspired",
+      "vi": "đầy cảm hứng"
+    }
+  },
+  {
+    "title": ":feeling_hungry:",
+    "image": "1f62b.png",
+    "lang": {
+      "en": "hungry",
+      "vi": "đói"
+    }
+  },
+  {
+    "title": ":feeling_cool:",
+    "image": "1f60e.png",
+    "lang": {
+      "en": "cool",
+      "vi": "thật phong cách"
+    }
+  },
+  {
+    "title": ":feeling_dizzy:",
+    "image": "1f635.png",
+    "lang": {
+      "en": "dizzy",
+      "vi": "chóng mặt"
+    }
+  },
+  {
+    "title": ":feeling_energized:",
+    "image": "1f61b.png",
+    "lang": {
+      "en": "energized",
+      "vi": "tràn đầy sinh lực"
+    }
+  },
+  {
+    "title": ":feeling_bad:",
+    "image": "1f61f.png",
+    "lang": {
+      "en": "bad",
+      "vi": "tồi tệ"
+    }
+  },
+  {
+    "title": ":feeling_blessed:",
+    "image": "1f607.png",
+    "lang": {
+      "en": "blessed",
+      "vi": "có phúc"
+    }
+  },
+  {
+    "title": ":feeling_content:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "content",
+      "vi": "mãn nguyện"
+    }
+  },
+  {
+    "title": ":feeling_funny:",
+    "image": "1f973.png",
+    "lang": {
+      "en": "funny",
+      "vi": "vui nhộn"
+    }
+  },
+  {
+    "title": ":feeling_nostalgic:",
+    "image": "1f61f.png",
+    "lang": {
+      "en": "nostalgic",
+      "vi": "nhớ nhà"
+    }
+  },
+  {
+    "title": ":feeling_sore:",
+    "image": "1f915.png",
+    "lang": {
+      "en": "sore",
+      "vi": "đau nhức"
+    }
+  },
+  {
+    "title": ":feeling_loved:",
+    "image": "1f60d.png",
+    "lang": {
+      "en": "loved",
+      "vi": "được yêu"
+    }
+  },
+  {
+    "title": ":feeling_stuffed:",
+    "image": "1f922.png",
+    "lang": {
+      "en": "stuffed",
+      "vi": "no"
+    }
+  },
+  {
+    "title": ":feeling_emotional:",
+    "image": "1f622.png",
+    "lang": {
+      "en": "emotional",
+      "vi": "xúc động"
+    }
+  },
+  {
+    "title": ":feeling_stressed:",
+    "image": "1f629.png",
+    "lang": {
+      "en": "stressed",
+      "vi": "căng thẳng"
+    }
+  },
+  {
+    "title": ":feeling_confused:",
+    "image": "1f616.png",
+    "lang": {
+      "en": "confused",
+      "vi": "bối rối"
+    }
+  },
+  {
+    "title": ":feeling_sick:",
+    "image": "1f637.png",
+    "lang": {
+      "en": "sick",
+      "vi": "ốm yếu"
+    }
+  },
+  {
+    "title": ":feeling_naked:",
+    "image": "1f636.png",
+    "lang": {
+      "en": "naked",
+      "vi": "trống rỗng"
+    }
+  },
+  {
+    "title": ":feeling_pained:",
+    "image": "1f623.png",
+    "lang": {
+      "en": "pained",
+      "vi": "đau đớn"
+    }
+  },
+  {
+    "title": ":feeling_stuck:",
+    "image": "1f61e.png",
+    "lang": {
+      "en": "stuck",
+      "vi": "bế tắc"
+    }
+  },
+  {
+    "title": ":feeling_incomplete:",
+    "image": "1f622.png",
+    "lang": {
+      "en": "incomplete",
+      "vi": "thiếu"
+    }
+  },
+  {
+    "title": ":feeling_blissful:",
+    "image": "1f60a.png",
+    "lang": {
+      "en": "blissful",
+      "vi": "sung sướng"
+    }
+  },
+  {
+    "title": ":feeling_confident:",
+    "image": "1f603.png",
+    "lang": {
+      "en": "confident",
+      "vi": "tự tin"
+    }
+  },
+  {
+    "title": ":feeling_special:",
+    "image": "1f929.png",
+    "lang": {
+      "en": "special",
+      "vi": "đặc biệt"
+    }
+  },
+  {
+    "title": ":feeling_fortunate:",
+    "image": "1f911.png",
+    "lang": {
+      "en": "fortunate",
+      "vi": "may mắn"
+    }
+  },
+  {
+    "title": ":feeling_stupid:",
+    "image": "1f92a.png",
+    "lang": {
+      "en": "stupid",
+      "vi": "ngốc nghếch"
+    }
+  },
+  {
+    "title": ":feeling_hyper:",
+    "image": "1f61d.png",
+    "lang": {
+      "en": "hyper",
+      "vi": "kích động"
+    }
+  },
+  {
+    "title": ":feeling_stodgy:",
+    "image": "1f610.png",
+    "lang": {
+      "en": "stodgy",
+      "vi": "tẻ nhạt"
+    }
+  },
+  {
+    "title": ":feeling_broken",
+    "image": "1f62d.png",
+    "lang": {
+      "en": "broken",
+      "vi": "gục ngã"
+    }
+  },
+  {
+    "title": ":feeling_yucky:",
+    "image": "1f92e.png",
+    "lang": {
+      "en": "yucky",
+      "vi": "kinh tởm"
+    }
+  },
+  {
+    "title": ":feeling_useless:",
+    "image": "1f62a.png",
+    "lang": {
+      "en": "useless",
+      "vi": "vô dụng"
+    }
+  },
+  {
+    "title": ":feeling_heartbroken:",
+    "image": "1f62d.png",
+    "lang": {
+      "en": "heartbroken",
+      "vi": "đau khổ"
+    }
+  },
+  {
+    "title": ":feeling_normal:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "normal",
+      "vi": "bình thường"
+    }
+  },
+  {
+    "title": ":feeling_pissed_off:",
+    "image": "1f620.png",
+    "lang": {
+      "en": "pissed off",
+      "vi": "tức giận"
+    }
+  },
+  {
+    "title": ":feeling_silly:",
+    "image": "1f644.png",
+    "lang": {
+      "en": "silly",
+      "vi": "ngớ ngẩn"
+    }
+  },
+  {
+    "title": ":feeling_old:",
+    "image": "1f474.png",
+    "lang": {
+      "en": "old",
+      "vi": "già nua"
+    }
+  },
+  {
+    "title": ":feeling_scared:",
+    "image": "1f628.png",
+    "lang": {
+      "en": "scared",
+      "vi": "sợ hãi"
+    }
+  },
+  {
+    "title": ":feeling_hurt:",
+    "image": "1f629.png",
+    "lang": {
+      "en": "hurt",
+      "vi": "bị tổn thương"
+    }
+  },
+  {
+    "title": ":feeling_upset:",
+    "image": "1f615.png",
+    "lang": {
+      "en": "upset",
+      "vi": "khó chịu"
+    }
+  },
+  {
+    "title": ":feeling_mad:",
+    "image": "1f92c.png",
+    "lang": {
+      "en": "mad",
+      "vi": "tức điên"
+    }
+  },
+  {
+    "title": ":feeling_helpless:",
+    "image": "1f61f.png",
+    "lang": {
+      "en": "helpless",
+      "vi": "bất lực"
+    }
+  },
+  {
+    "title": ":feeling_unimportant:",
+    "image": "1f610.png",
+    "lang": {
+      "en": "unimportant",
+      "vi": "không quan trọng"
+    }
+  },
+  {
+    "title": ":feeling_pissed:",
+    "image": "1f621.png",
+    "lang": {
+      "en": "pissed",
+      "vi": "phẫn nộ"
+    }
+  },
+  {
+    "title": ":feeling_refreshed:",
+    "image": "1f62e.png",
+    "lang": {
+      "en": "refreshed",
+      "vi": "mới mẻ"
+    }
+  },
+  {
+    "title": ":feeling_free:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "free",
+      "vi": "tự do"
+    }
+  },
+  {
+    "title": ":feeling_shocked:",
+    "image": "1f640.png",
+    "lang": {
+      "en": "shocked",
+      "vi": "sốc"
+    }
+  },
+  {
+    "title": ":feeling_pretty:",
+    "image": "1f618.png",
+    "lang": {
+      "en": "pretty",
+      "vi": "xinh xắn"
+    }
+  },
+  {
+    "title": ":feeling_spooky:",
+    "image": "1f631.png",
+    "lang": {
+      "en": "spooky",
+      "vi": "hoảng sợ"
+    }
+  },
+  {
+    "title": ":feeling_bored:",
+    "image": "1f615.png",
+    "lang": {
+      "en": "bored",
+      "vi": "buồn tẻ"
+    }
+  },
+  {
+    "title": ":feeling_disgusted:",
+    "image": "1f612.png",
+    "lang": {
+      "en": "disgusted",
+      "vi": "chán ghét"
+    }
+  },
+  {
+    "title": ":feeling_irritated:",
+    "image": "1f620.png",
+    "lang": {
+      "en": "irritated",
+      "vi": "cáu"
+    }
+  },
+  {
+    "title": ":feeling_overwhelmed:",
+    "image": "1f635.png",
+    "lang": {
+      "en": "overwhelmed",
+      "vi": "choáng ngợp"
+    }
+  },
+  {
+    "title": ":feeling_unsure:",
+    "image": "1f914.png",
+    "lang": {
+      "en": "unsure",
+      "vi": "không chắc chắn"
+    }
+  },
+  {
+    "title": ":feeling_miserable:",
+    "image": "1f629.png",
+    "lang": {
+      "en": "miserable",
+      "vi": "khổ sở"
+    }
+  },
+  {
+    "title": ":feeling_chill:",
+    "image": "1f616.png",
+    "lang": {
+      "en": "chill",
+      "vi": "rùng mình"
+    }
+  },
+  {
+    "title": ":feeling_determined:",
+    "image": "1f913.png",
+    "lang": {
+      "en": "determined",
+      "vi": "quyết đoán"
+    }
+  },
+  {
+    "title": ":feeling_good:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "good",
+      "vi": "tốt"
+    }
+  },
+  {
+    "title": ":feeling_joyful:",
+    "image": "1f60a.png",
+    "lang": {
+      "en": "joyful",
+      "vi": "hân hoan"
+    }
+  },
+  {
+    "title": ":feeling_regret:",
+    "image": "1f634.png",
+    "lang": {
+      "en": "regret",
+      "vi": "hối hận"
+    }
+  },
+  {
+    "title": ":feeling_lazy:",
+    "image": "1f60c.png",
+    "lang": {
+      "en": "lazy",
+      "vi": "lười biếng"
+    }
+  },
+  {
+    "title": ":feeling_hot:",
+    "image": "1f975.png",
+    "lang": {
+      "en": "hot",
+      "vi": "Nóng"
+    }
+  },
+  {
+    "title": ":feeling_nice:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "nice",
+      "vi": "dễ chịu"
+    }
+  },
+  {
+    "title": ":feeling_terrible:",
+    "image": "1f631.png",
+    "lang": {
+      "en": "terrible",
+      "vi": "kinh khủng"
+    }
+  },
+  {
+    "title": ":feeling_uncomfortable:",
+    "image": "1f613.png",
+    "lang": {
+      "en": "uncomfortable",
+      "vi": "không thoải mái"
+    }
+  },
+  {
+    "title": ":feeling_worthless:",
+    "image": "1f910.png",
+    "lang": {
+      "en": "worthless",
+      "vi": "chẳng được tích sự gì"
+    }
+  },
+  {
+    "title": ":feeling_scared:",
+    "image": "1f628.png",
+    "lang": {
+      "en": "scared",
+      "vi": "lo sợ"
+    }
+  },
+  {
+    "title": ":feeling_proud:",
+    "image": "1f60a.png",
+    "lang": {
+      "en": "proud",
+      "vi": "tự hào"
+    }
+  },
+  {
+    "title": ":feeling_guilty:",
+    "image": "1f61f.png",
+    "lang": {
+      "en": "guilty",
+      "vi": "tội lỗi"
+    }
+  },
+  {
+    "title": ":feeling_satisfied:",
+    "image": "1f642.png",
+    "lang": {
+      "en": "satisfied",
+      "vi": "Hài lòng"
+    }
+  },
+  {
+    "title": ":feeling_comfortable:",
+    "image": "1f601.png",
+    "lang": {
+      "en": "comfortable",
+      "vi": "Thoải mái"
+    }
+  }
+]
